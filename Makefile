@@ -1,2 +1,1 @@
-fib_exec: fib.cpp
-	g++ fib.cpp -o fib_exec
+g++ fib.cpp -o fib_exec
